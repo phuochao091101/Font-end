@@ -1,0 +1,40 @@
+.container{
+    margin: 10px 200px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+}
+.header img{
+    width: 100%;
+    height: 200px;
+    border-radius: 4px;
+}
+.block-content{
+    border-radius: 4px;
+    margin-top: 150px;
+    width: 100%;
+    height: 100%;
+    background-color: #CCC;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.block-content img{
+    width: 100%;
+    height: 150px;
+    border-radius: 5px 5px 0 0;
+}
+.block-section{
+    padding: 10px 20px;
+    text-align: justify;
+}
+.content img{
+    text-align: center;
+    width: 80%;
+    height: 300px;
+}
+.block-title{
+    position: absolute;
+    top: 8px;
+    left: 100px;
+}
+
